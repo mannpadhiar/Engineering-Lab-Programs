@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(82, 151, 151);
+}
+
+.sec{
+    background-color: orange;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+.main{
+    float: left;
+}
+
+.input{
+    background-color: black; margin-top: 12px; width: 500px;
+}
+
+textarea{
+    background-color: black; margin-left: 12px; margin-bottom: 12px; color: aliceblue;
+}
+
+footer{
+    background-color: blue; color: white;
+}
+
